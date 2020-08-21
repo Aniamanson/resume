@@ -466,6 +466,7 @@ footer.section {
   .hero-subtitle {
     font-size: 16px;
     line-height: 27px;
+    text-align: center;
   }
 
   .hero-title {
